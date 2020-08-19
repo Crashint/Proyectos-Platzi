@@ -1,4 +1,4 @@
-objetivo = int(input('Escoge un numero: '))
+objetivo = int(input('Escoge dos numero: '))
 epsilon = 0.0001
 paso = epsilon**2
 respuesta = 0.00
