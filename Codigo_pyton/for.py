@@ -10,8 +10,8 @@
 #    contador =+ 1 #Contador =+ 1 es igual a contador = contador + 1 
 #    print(contador)
     
-#for contador in range (1001): #rango toma de 1 hasta el numero antes del final.
- #   print (contador)
+for contador in range (1001): #rango toma de 1 hasta el numero antes del final.
+    print (contador)
 
-a = list(range(1001))
-print (a)
+#a = list(range(1001)) # list vuelve lista el rango
+#print (a)
